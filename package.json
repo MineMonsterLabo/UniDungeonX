@@ -1,0 +1,12 @@
+{
+    "name": "com.elipmoc.unidungeonx",
+    "version": "0.1.0",
+    "displayName": "UniDungeonX",
+    "description": "make dungeon",
+    "unity": "2020.3",
+    "dependencies": {},
+    "keywords": [],
+    "author": {
+        "name": "elipmoc"
+    }
+}
